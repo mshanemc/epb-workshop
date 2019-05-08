@@ -1,6 +1,7 @@
 {
   "orgName": "prediction-builder",
   "edition": "Developer",
+  "features": ["EinsteinBuilder"],
   "settings": {
     "orgPreferenceSettings": {
       "networksEnabled": false,

@@ -1,0 +1,1 @@
+sfdx force:data:tree:export -q "select firstname, lastname, Homeowner__c, MailingCity, MailingState, MailingPostalCode, Marital_Status__c, Occupation__c, Email, Rewards_Member__c,  (select Reservation_Time__c, Status__c, Party_Size__c from Reservations__r) from Contact Order by Total_Reservations__c DESC" -u epbTH --apiversion 45.0 -d data -p
