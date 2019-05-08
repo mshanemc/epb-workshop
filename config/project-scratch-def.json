@@ -1,5 +1,6 @@
 {
-  "orgName": "prediction-builder",
+  "orgName": "workshops",
+  "description": "prediction-builder",
   "edition": "Developer",
   "features": ["EinsteinBuilder"],
   "settings": {
