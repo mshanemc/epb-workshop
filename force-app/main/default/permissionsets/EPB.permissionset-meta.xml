@@ -63,12 +63,7 @@
         <editable>false</editable>
         <field>Reservation__c.Marital_Status__c</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Reservation__c.No_Show__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+    </fieldPermissions>    
     <fieldPermissions>
         <editable>false</editable>
         <field>Reservation__c.Occupation__c</field>
@@ -78,12 +73,7 @@
         <editable>true</editable>
         <field>Reservation__c.Party_Size__c</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Reservation__c.Previous_No_Shows__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+    </fieldPermissions>    
     <fieldPermissions>
         <editable>false</editable>
         <field>Reservation__c.Reservation_Month__c</field>
