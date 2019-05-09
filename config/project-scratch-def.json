@@ -1,8 +1,8 @@
 {
   "orgName": "workshops",
+  "edition": "Developer",
   "description": "prediction-builder",
-  "sourceOrg": "00DB0000000DLTxMAO",
-  "features": ["EinsteinBuilder", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "DevelopmentWave", "EinsteinAssistant", "InsightsPlatform"],
+  "features": ["EinsteinBuilderFree"],
   "settings": {
     "orgPreferenceSettings": {
       "s1DesktopEnabled": true,
